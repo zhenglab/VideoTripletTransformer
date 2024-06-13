@@ -1,0 +1,15 @@
+setup.py
+/home/guo/01-current/02-VIH/st_transformer_v7/models/deformable/ops/src/vision.cpp
+/home/guo/01-current/02-VIH/st_transformer_v7/models/deformable/ops/src/cpu/ms_deform_attn_cpu.cpp
+/home/guo/01-current/02-VIH/st_transformer_v7/models/deformable/ops/src/cuda/ms_deform_attn_cuda.cu
+/home/guo/01-current/02-VIH/st_transformer_v8/models/deformable/ops/src/vision.cpp
+/home/guo/01-current/02-VIH/st_transformer_v8/models/deformable/ops/src/cpu/ms_deform_attn_cpu.cpp
+/home/guo/01-current/02-VIH/st_transformer_v8/models/deformable/ops/src/cuda/ms_deform_attn_cuda.cu
+MultiScaleDeformableAttention.egg-info/PKG-INFO
+MultiScaleDeformableAttention.egg-info/SOURCES.txt
+MultiScaleDeformableAttention.egg-info/dependency_links.txt
+MultiScaleDeformableAttention.egg-info/top_level.txt
+functions/__init__.py
+functions/ms_deform_attn_func.py
+modules/__init__.py
+modules/ms_deform_attn.py

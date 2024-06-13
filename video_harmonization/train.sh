@@ -1,0 +1,2 @@
+sleep 5000
+CUDA_VISIBLE_DEVICES=0,1,2,3 python train.py --model basestv2 --netG  vth  --name vth_ST3_De_MAE75_selflinear_add_6L_LT_L2 --deformable_depth 2 --gpt_depth 2 --batch_size 4  --init_port 9998 --loss_T  --save_iter_model
